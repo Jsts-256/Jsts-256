@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jsts-256
+- 👀 I’m interested in decentralized networks and smart contracts
+- 🌱 I’m currently learning solidity and move
+- 💞️ I’m looking to collaborate on DeFi projects
+- 📫 How to reach me Telegram @Justus256
